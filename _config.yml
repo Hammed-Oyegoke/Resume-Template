@@ -4,7 +4,7 @@ title: "Hammed Oyegoke"
 name: "Hammed Oyegoke's Portfolio in Jekyll"
 email: oyegokehammed@gmail.com
 url: "https://Hammed-Oyegoke.github.io"
-baseurl: "/jekyll-resume-template"
+baseurl: "/Resume-Template"
 repository: "Hammed-Oyegoke/Resume-Template"
 header:
   image: /assets/images/banner-husky.jpg
