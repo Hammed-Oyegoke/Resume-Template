@@ -7,7 +7,7 @@ url: "https://Hammed-Oyegoke.github.io"
 baseurl: "/Resume-Template"
 repository: "Hammed-Oyegoke/Resume-Template"
 header:
-  image: /2 by 2 Passport black.pdf.pdg
+  image: /2 by 2 Passport black.pdf
 
 include:
   - _pages
