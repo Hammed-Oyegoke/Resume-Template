@@ -1,12 +1,12 @@
 ## Prompt
-> Write a short post about something you did this week: what happened, what you learned, and what you'd do next time.
+> ##Write a short post about something you did this week: what happened, what you learned, and what you'd do next time.
 >
 > Hi all, meet Hammed, your latest graduate student with great passion for data and everything that data can resolve. My interest travels around every problems that economics can solve and that makes my specialization revolves round Applied Micro-Economics. 
 ---
 
 ## What I did
 
-This week I led the Huskies out of the tunnel at **Huskie Stadium** for the home opener. It was my first game of the season, so I spent the week rehearsing a new entrance with the NIU cheer team.
+##This week I led the Huskies out of the tunnel at **Huskie Stadium** for the home opener. It was my first game of the season, so I spent the week rehearsing a new entrance with the NIU cheer team.
 
 I recently obtained my MA degree in Economics at Illinois State University. I have been fortified with the necessary skills that is required to tackle problems beyond the surface. However, my passion for making the world a better place motivated my decision to proceed to having a PH.D in Economics. I would be happy to tell you more when we meet.
 
